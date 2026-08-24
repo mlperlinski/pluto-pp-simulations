@@ -31,4 +31,5 @@ Run the individual macros in ROOT:
 
 ## Physical Conclusions
 * **$\pi^0$ Mass Reconstruction:** Under ideal Monte Carlo conditions without detector resolution effects, combining the momenta of two emitted photons yields a sharply peaked delta-like distribution. This peak sits accurately at approximately 0.135 GeV/c², matching the expected $\pi^0$ invariant mass.
-* **Kinematic Filtering:** Applying the $20^\circ$ to $70^\circ$ angular acceptance filter rejects the vast majority of the 100,000 generated events. This massive drop in accepted events indicates that the reaction products at a 1.2 GeV beam energy are strongly forward-directed.
+* **Kinematic Filtering:** Applying the $20^\circ$ to $70^\circ$ angular acceptance filter rejects the vast majority of the 100,000 generated events. This significant reduction in accepted events indicates that the reaction products at a beam energy of 1.2 GeV are strongly forward directed.
+
