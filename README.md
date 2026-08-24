@@ -18,7 +18,7 @@ gSystem->Load("$PLUTOLIBDIR/libPluto.so");
 ```
 
 ### Step 2: Run the ROOT macros
-Run the macros individually from the ROOT prompt, for example: 
+Run the individual macros in ROOT: 
 ```cpp
 .x macro1.C
 .x macro2.C
